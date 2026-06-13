@@ -24,7 +24,7 @@ This repository includes a clean, student-friendly CEH study PDF covering:
 
 ## 📥 Download PDF
 
-[Download CEH Playbook](./# Cybersecurity Store
+[https://github.com/findrishu/CEH-Networking-Linux-Playbook/blob/main/CEH_Playbook_Rahul_Networking_Linux_v3.pdf](./# Cybersecurity Store
 
 A collection of cybersecurity learning resources, CEH notes, Linux fundamentals, networking basics, and ethical hacking study material.
 
